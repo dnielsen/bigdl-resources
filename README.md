@@ -1,5 +1,5 @@
 # BigDL Resources
-- presented at AWS re:Invent 2017
+[slides presented at AWS re:Invent 2017 - https://www.slideshare.net/dcnielsen/bigdl-deep-learning-in-apache-spark-aws-reinvent-2017/ ]
 
 BigDL Home: http://software.intel.com/bigdl
 BigDL Docs: http://bigdl-project.github.io
